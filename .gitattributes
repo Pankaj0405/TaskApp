@@ -2,4 +2,3 @@
 *.js linguist-detectable=false
 *.html linguist-detectable=true
 *.xml linguist-detectable=true
-*.andorid linguist-detectable=true
