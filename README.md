@@ -32,4 +32,13 @@ Firebase account
 <img src="https://github.com/Pankaj0405/TaskApp/assets/91046820/240e1591-a3be-4662-850a-5a1d8fe1d821" height="760" width="360">
 <img src="https://github.com/Pankaj0405/TaskApp/assets/91046820/46bfa86e-30db-4aeb-93a2-14bc5dca8713" height="760" width="360">
 
+## Acknowledgements
+
+ - This project was inspired by the idea of providing an interactive and educational quiz application.
+
+- Thanks to the open-source community for providing libraries and resources that made this project possible.
+
+## License
+
+The QuizApp project is licensed under the MIT License.
 
