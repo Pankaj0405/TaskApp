@@ -1,3 +1,4 @@
+
 # TaskApp
 
 TaskApp is a simple Android application developed using Java and Firebase. It allows users to store and manage their daily tasks in a convenient way. The app integrates Firebase for authentication and real-time database functionalities.
@@ -25,12 +26,10 @@ Android Studio (latest version)
 Firebase account
 
 ## ScreenShot
-![Screenshot_20230624_130749](https://github.com/Pankaj0405/TaskApp/assets/91046820/fffd6283-f3f7-4ec3-b4ef-12376021f350 =250x250)
-![Uploading Screenshot_20230624_130802.png…]( =250x250)
-![Screenshot_20230624_130810](https://github.com/Pankaj0405/TaskApp/assets/91046820/d86d3f8e-eded-4659-9e52-beffce76d162 =250x250)
-![Screenshot_20230624_130854](https://github.com/Pankaj0405/TaskApp/assets/91046820/50a5d0e1-f5bb-4ab8-936d-665b91d099db =250x250)
-![Screenshot_20230624_130520](https://github.com/Pankaj0405/TaskApp/assets/91046820/1256cb56-8277-4e84-b9de-31d513f37f43 =250x250)
-
-
+<img src="https://github.com/Pankaj0405/TaskApp/assets/91046820/183400b7-edb2-4b05-a49a-2254da1b0f3a" height="760" width="360">
+<img src="https://github.com/Pankaj0405/TaskApp/assets/91046820/e2232efb-b12e-42d1-9be8-b7807ee8113a" height="760" width="360">
+<img src="https://github.com/Pankaj0405/TaskApp/assets/91046820/846b65a9-1392-402c-8512-356957df345c" height="760" width="360">
+<img src="https://github.com/Pankaj0405/TaskApp/assets/91046820/240e1591-a3be-4662-850a-5a1d8fe1d821" height="760" width="360">
+<img src="https://github.com/Pankaj0405/TaskApp/assets/91046820/46bfa86e-30db-4aeb-93a2-14bc5dca8713" height="760" width="360">
 
 
