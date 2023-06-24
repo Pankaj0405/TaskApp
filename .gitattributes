@@ -2,4 +2,4 @@
 *.js linguist-detectable=false
 *.html linguist-detectable=true
 *.xml linguist-detectable=true
-*.* linguist-language=Android
+*.andorid linguist-detectable=true
